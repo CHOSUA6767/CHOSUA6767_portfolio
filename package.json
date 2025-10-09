@@ -1,7 +1,8 @@
 {
   "homepage": "https://CHOSUA6767.github.io/CHOSUA6767_portfolio",
   "scripts": {
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d .",
+    "print-path": "echo $PATH"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
